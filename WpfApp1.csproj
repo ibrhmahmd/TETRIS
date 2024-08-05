@@ -9,44 +9,44 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Material\Background.png" />
-    <None Remove="Material\Block-Empty.png" />
-    <None Remove="Material\Block-I.png" />
-    <None Remove="Material\Block-J.png" />
-    <None Remove="Material\Block-L.png" />
-    <None Remove="Material\Block-O.png" />
-    <None Remove="Material\Block-S.png" />
-    <None Remove="Material\Block-T.png" />
-    <None Remove="Material\Block-Z.png" />
-    <None Remove="Material\Icon.ico" />
-    <None Remove="Material\TileBlue.png" />
-    <None Remove="Material\TileCyan.png" />
-    <None Remove="Material\TileEmpty.png" />
-    <None Remove="Material\TileGreen.png" />
-    <None Remove="Material\TileOrange.png" />
-    <None Remove="Material\TilePurple.png" />
-    <None Remove="Material\TileRed.png" />
-    <None Remove="Material\TileYellow.png" />
+    <None Remove="Assets\Background.png" />
+    <None Remove="Assets\Block-Empty.png" />
+    <None Remove="Assets\Block-I.png" />
+    <None Remove="Assets\Block-J.png" />
+    <None Remove="Assets\Block-L.png" />
+    <None Remove="Assets\Block-O.png" />
+    <None Remove="Assets\Block-S.png" />
+    <None Remove="Assets\Block-T.png" />
+    <None Remove="Assets\Block-Z.png" />
+    <None Remove="Assets\Icon.ico" />
+    <None Remove="Assets\TileBlue.png" />
+    <None Remove="Assets\TileCyan.png" />
+    <None Remove="Assets\TileEmpty.png" />
+    <None Remove="Assets\TileGreen.png" />
+    <None Remove="Assets\TileOrange.png" />
+    <None Remove="Assets\TilePurple.png" />
+    <None Remove="Assets\TileRed.png" />
+    <None Remove="Assets\TileYellow.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Material\Background.png" />
-    <Resource Include="Material\Block-I.png" />
-    <Resource Include="Material\Block-J.png" />
-    <Resource Include="Material\Block-L.png" />
-    <Resource Include="Material\Block-O.png" />
-    <Resource Include="Material\Block-S.png" />
-    <Resource Include="Material\Block-T.png" />
-    <Resource Include="Material\Block-Z.png" />
-    <Resource Include="Material\Icon.ico" />
-    <Resource Include="Material\TileBlue.png" />
-    <Resource Include="Material\TileCyan.png" />
-    <Resource Include="Material\TileEmpty.png" />
-    <Resource Include="Material\TileGreen.png" />
-    <Resource Include="Material\TileOrange.png" />
-    <Resource Include="Material\TilePurple.png" />
-    <Resource Include="Material\TileRed.png" />
-    <Resource Include="Material\TileYellow.png" />
+    <Resource Include="Assets\Background.png" />
+    <Resource Include="Assets\Block-I.png" />
+    <Resource Include="Assets\Block-J.png" />
+    <Resource Include="Assets\Block-L.png" />
+    <Resource Include="Assets\Block-O.png" />
+    <Resource Include="Assets\Block-S.png" />
+    <Resource Include="Assets\Block-T.png" />
+    <Resource Include="Assets\Block-Z.png" />
+    <Resource Include="Assets\Icon.ico" />
+    <Resource Include="Assets\TileBlue.png" />
+    <Resource Include="Assets\TileCyan.png" />
+    <Resource Include="Assets\TileEmpty.png" />
+    <Resource Include="Assets\TileGreen.png" />
+    <Resource Include="Assets\TileOrange.png" />
+    <Resource Include="Assets\TilePurple.png" />
+    <Resource Include="Assets\TileRed.png" />
+    <Resource Include="Assets\TileYellow.png" />
   </ItemGroup>
 
 </Project>

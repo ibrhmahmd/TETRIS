@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|c:\\users\\ibrahim\\source\\repos\\wpfapp1\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|solutionrelative:block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|c:\\users\\ibrahim\\source\\repos\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|c:\\users\\ibrahim\\source\\repos\\wpfapp1\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|solutionrelative:queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|c:\\users\\ibrahim\\source\\repos\\wpfapp1\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|solutionrelative:block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F54D7BFC-56DA-49DE-A352-9DD626BEF816}|WpfApp1.csproj|c:\\users\\ibrahim\\source\\repos\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,19 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 269,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Block.cs",
               "DocumentMoniker": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\Block.cs",
               "RelativeDocumentMoniker": "Block.cs",
               "ToolTip": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\Block.cs",
               "RelativeToolTip": "Block.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T01:25:29.89Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:00:14.134Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\Queue.cs",
+              "RelativeDocumentMoniker": "Queue.cs",
+              "ToolTip": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\Queue.cs",
+              "RelativeToolTip": "Queue.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:25:40.284Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -69,40 +97,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\GameState.cs",
-              "RelativeDocumentMoniker": "GameState.cs",
-              "ToolTip": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\GameState.cs",
-              "RelativeToolTip": "GameState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T06:00:14.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAQwEYAAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwGYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T04:57:13.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Queue.cs",
-              "DocumentMoniker": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\Queue.cs",
-              "RelativeDocumentMoniker": "Queue.cs",
-              "ToolTip": "C:\\Users\\ibrahim\\source\\repos\\WpfApp1\\Queue.cs",
-              "RelativeToolTip": "Queue.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T06:25:40.284Z",
               "EditorCaption": ""
             },
             {

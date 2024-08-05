@@ -9,13 +9,28 @@ namespace WpfApp1
     public class GameState
     {
 
-
+        public int Score { get; private set; }
         private Block _currentBlock;
         public Block CurrentBlock
         {
             get => _currentBlock;
-            private set => _currentBlock = value;
+            private set
+            {
+                _currentBlock = value;
+                _currentBlock.reset();
+                for (int i = 0; i < 2; i++)
+                {
+                    _currentBlock.Move(1, 0);
+                    if (!fits())
+                    {
+                        _currentBlock.Move(-1, 0);
+                    }
+                }
+            }
         }
+
+
+
 
 
         public GameGrid grid { get;}
@@ -91,13 +106,14 @@ namespace WpfApp1
             return !(grid.IsRowEmpty(0)&&grid.IsRowEmpty(1));
         }
          
+
         public void placeblock()
         {
             foreach (Position P in CurrentBlock.tilePosition())
             {
                 grid[P.Row, P.Column] = CurrentBlock.ID;
             }
-            grid.ClearFullRows();
+            Score += grid.ClearFullRows();
 
             if (isgameover())
             {
